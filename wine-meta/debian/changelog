@@ -1,4 +1,10 @@
-wine-meta (100:1.0.winehq-99pika4.lunar) kinetic; urgency=low
+wine-meta (100:1.0.winehq-100pika4) pikauwu; urgency=low
+
+  * Update for pikauwu
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 01 Oct 2022 14:50:00 +0200
+
+wine-meta (100:1.0.winehq-99pika4.lunar) lunar; urgency=low
 
   * Update for lunar
 
